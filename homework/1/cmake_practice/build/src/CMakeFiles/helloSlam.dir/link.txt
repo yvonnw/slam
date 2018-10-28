@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG   CMakeFiles/helloSlam.dir/useHello.o  -o helloSlam  -L/home/yv/homework/1/cmake_practice/src -rdynamic libhello.so -Wl,-rpath,/home/yv/homework/1/cmake_practice/src:/home/yv/homework/1/cmake_practice/build/src 

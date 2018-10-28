@@ -1,0 +1,3 @@
+/home/yv/homework/code/2/t1/build/CMakeFiles/edit_cache.dir
+/home/yv/homework/code/2/t1/build/CMakeFiles/rebuild_cache.dir
+/home/yv/homework/code/2/t1/build/CMakeFiles/matrix100.dir

@@ -1,0 +1,14 @@
+/home/yv/homework/1/cmake_practice/build/CMakeFiles/install.dir
+/home/yv/homework/1/cmake_practice/build/CMakeFiles/list_install_components.dir
+/home/yv/homework/1/cmake_practice/build/CMakeFiles/install/strip.dir
+/home/yv/homework/1/cmake_practice/build/CMakeFiles/install/local.dir
+/home/yv/homework/1/cmake_practice/build/CMakeFiles/rebuild_cache.dir
+/home/yv/homework/1/cmake_practice/build/CMakeFiles/edit_cache.dir
+/home/yv/homework/1/cmake_practice/build/src/CMakeFiles/rebuild_cache.dir
+/home/yv/homework/1/cmake_practice/build/src/CMakeFiles/edit_cache.dir
+/home/yv/homework/1/cmake_practice/build/src/CMakeFiles/hello.dir
+/home/yv/homework/1/cmake_practice/build/src/CMakeFiles/install.dir
+/home/yv/homework/1/cmake_practice/build/src/CMakeFiles/list_install_components.dir
+/home/yv/homework/1/cmake_practice/build/src/CMakeFiles/helloSlam.dir
+/home/yv/homework/1/cmake_practice/build/src/CMakeFiles/install/strip.dir
+/home/yv/homework/1/cmake_practice/build/src/CMakeFiles/install/local.dir

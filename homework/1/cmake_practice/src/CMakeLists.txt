@@ -1,0 +1,6 @@
+INCLUDE_DIRECTORIES(/home/yv/homework/1/cmake_practice/include)
+LINK_DIRECTORIES(/home/yv/homework/1/cmake_practice/src)
+ADD_LIBRARY(hello SHARED hello.c)
+INSTALL(TARGETS hello DESTINATION /usr/local/lib)
+ADD_EXECUTABLE(helloSlam useHello.c)
+TARGET_LINK_LIBRARIES(helloSlam hello)

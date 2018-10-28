@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libhello.so -o libhello.so CMakeFiles/hello.dir/hello.o  -L/home/yv/homework/1/cmake_practice/src 
