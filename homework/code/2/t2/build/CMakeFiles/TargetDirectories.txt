@@ -1,0 +1,3 @@
+/home/yv/slam/homework/code/2/t2/build/CMakeFiles/edit_cache.dir
+/home/yv/slam/homework/code/2/t2/build/CMakeFiles/rebuild_cache.dir
+/home/yv/slam/homework/code/2/t2/build/CMakeFiles/radish.dir

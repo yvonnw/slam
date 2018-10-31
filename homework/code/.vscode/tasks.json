@@ -1,0 +1,14 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile",
+            "type": "shell",
+            "command": "g++",
+            "args": ["-g","/usr/include/eigen3/Eigen","/home/yv/slam/homework/code/2/t2/radish.cpp","/usr/include/eigen3"],          
+            "problemMatcher":"$gcc",
+        }
+    ]
+}
